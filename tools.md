@@ -18,6 +18,16 @@
   
 # WEB
 
+## XSS Vulnerability Scanner Tool's :
+
+* XSStrike
+* BruteXSS Terminal
+* BruteXSS GUI
+* XSS Scanner Online
+* XSSer
+* xsscrapy
+* Cyclops
+
 * [Flask Unsign - Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
 
 # Mobile APP
