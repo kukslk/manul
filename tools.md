@@ -2,6 +2,7 @@
 
 * [REVERSE WHOIS LOOKUP](https://github.com/devanshbatham/revwhoix)
 * [OSINT TOOLS 2023 (more than 600)](https://www.advisor-bm.com/osint-tools)
+* [GitLeaks (Git analayzer)](https://github.com/zricethezav/gitleaks)
 
 # OS
 
