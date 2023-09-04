@@ -37,5 +37,6 @@
 # Toolkits
 * https://github.com/trustedsec/ptf
 * https://pastebin.com/cFMG8dy5
+* https://inventory.raw.pm/tools.html#title-tools-osint
 
 [And more HERE](https://spy-soft.net/)
