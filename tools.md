@@ -4,6 +4,10 @@
 * [OSINT TOOLS 2023 (more than 600)](https://www.advisor-bm.com/osint-tools)
 * [GitLeaks (Git analayzer)](https://github.com/zricethezav/gitleaks)
 * [camera exploitation tool](https://github.com/vanpersiexp/expcamera.git)
+* [chaos - subdomain generator](https://github.com/projectdiscovery/chaos-client)
+* [permutations](https://github.com/projectdiscovery/alterx)
+* [resolver](https://github.com/projectdiscovery/dnsx)
+
 # OS
 
 * [ICMP tunneling](https://telegra.ph/Kak-hakery-ispolzuyut-ICMP-tunnelirovanie-chtoby-zavladet-setyu-organizacii-08-22-2)
