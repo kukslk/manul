@@ -37,6 +37,7 @@
 
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
+* [appsecwiki](https://github.com/WhitePrime/appsecwiki)
 
 # Toolkits
 * https://github.com/trustedsec/ptf
