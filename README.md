@@ -1,5 +1,13 @@
 # WEB
 
+## SQLi
+
+### Cheatsheets
+
+* [PostSwigger](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+* [Swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection)
+* [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+
 ## XSS
 
 
