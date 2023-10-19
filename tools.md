@@ -45,3 +45,4 @@
 * https://inventory.raw.pm/tools.html#title-tools-osint
 
 [And more HERE](https://spy-soft.net/)
+* [fortigate](https://github.com/horizon3ai/CVE-2022-40684)
