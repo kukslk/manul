@@ -46,3 +46,8 @@
 
 [And more HERE](https://spy-soft.net/)
 * [fortigate](https://github.com/horizon3ai/CVE-2022-40684)
+
+https://github.com/horizon3ai/CVE-2022-39952
+
+https://github.com/Acceis/exploit-CVE-2023-23752
+
