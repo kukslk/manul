@@ -136,4 +136,4 @@
 
 * [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes-2-0/)
 * [Hacktricks](https://book.hacktricks.xyz/)
-
+* [Redteamrecipe](https://redteamrecipe.com/)
