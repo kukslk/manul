@@ -40,6 +40,7 @@
 * [appsecwiki](https://github.com/WhitePrime/appsecwiki)
 # Passwords
 * [Passwords manul](https://labs.lares.com/password-analysis/)
+* (Defaults&dorks)[https://book.redteamguides.com/guides/tips-and-tricks]
 # Toolkits
 * https://github.com/trustedsec/ptf
 * https://pastebin.com/cFMG8dy5
