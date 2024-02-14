@@ -38,7 +38,8 @@
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
 * [appsecwiki](https://github.com/WhitePrime/appsecwiki)
-
+# Passwords
+* [Passwords manul](https://labs.lares.com/password-analysis/)
 # Toolkits
 * https://github.com/trustedsec/ptf
 * https://pastebin.com/cFMG8dy5
