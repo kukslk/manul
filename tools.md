@@ -106,7 +106,7 @@
 * [Pentest active directory LAB](https://github.com/Orange-Cyberdefense/GOAD)
 * https://github.com/enaqx/awesome-pentest
 * [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
-#CVE
+# CVE
 * [CVE Collection](https://github.com/trickest/cve)
 * [fortigate](https://github.com/horizon3ai/CVE-2022-40684)
 * [FortiNAC](https://github.com/horizon3ai/CVE-2022-39952)
