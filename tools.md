@@ -107,7 +107,7 @@
 * https://github.com/enaqx/awesome-pentest
 * [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 #CVE
-* [Collection](https://github.com/trickest/cve)
+* [CVE Collection](https://github.com/trickest/cve)
 * [fortigate](https://github.com/horizon3ai/CVE-2022-40684)
 * [FortiNAC](https://github.com/horizon3ai/CVE-2022-39952)
 * [Jommla](https://github.com/ThatNotEasy/CVE-2023-23752)
