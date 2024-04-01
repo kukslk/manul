@@ -1,4 +1,7 @@
 # Python
+## Libraries
+* Niquests - requests replacement
+
 * [Free ChatGPT](https://www.youtube.com/watch?v=tVDAQcag9-M)
 * Tabulate - prettify tables output
 * [Tricks](https://proglib.io/sh/gVMDfexA9U)
