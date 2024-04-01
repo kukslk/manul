@@ -111,9 +111,9 @@
 * CVE search tools
   * [searchsploit](https://gitlab.com/kalilinux/packages/exploitdb)
   * [getsploit](https://github.com/vulnersCom/getsploit)
-** [CVEMap](https://github.com/projectdiscovery/cvemap)
-** [pompem](https://github.com/rfunix/Pompem)
-** [SiCat](https://github.com/justakazh/sicat)
+  * [CVEMap](https://github.com/projectdiscovery/cvemap)
+  * [pompem](https://github.com/rfunix/Pompem)
+  * [SiCat](https://github.com/justakazh/sicat)
 * [CVE Collection](https://github.com/trickest/cve)
 * [fortigate](https://github.com/horizon3ai/CVE-2022-40684)
 * [FortiNAC](https://github.com/horizon3ai/CVE-2022-39952)
