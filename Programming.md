@@ -1,8 +1,8 @@
 # Python
-## Libraries
+### Libraries
 * Niquests - requests replacement
 
-## Mics
+### Mics
 
 * [Free ChatGPT](https://www.youtube.com/watch?v=tVDAQcag9-M)
 * Tabulate - prettify tables output
