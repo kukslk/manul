@@ -51,6 +51,7 @@
 * [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 * [pwncat is a post-exploitation platform](https://github.com/calebstewart/pwncat)
 * [Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
+* [frp reverse proxy NAT bypass](https://github.com/fatedier/frp)
 * [Docker Enumeration, Escalation of Privileges and Container Escapes](https://github.com/stealthcopter/deepce)
 * [reverse shell generator](https://www.revshells.com)
 * [GTFOBins - UNIX LPE](https://gtfobins.github.io/)
