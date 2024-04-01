@@ -72,8 +72,8 @@
 * [Windows persistence](https://github.com/last-byte/PersistenceSniper/)
 * [Legba bruteforcer](https://github.com/evilsocket/legba)
 * UAC bypass
- * [artillery](https://github.com/hackerhouse-opensource/Artillery/tree/main)
- * [stinger](https://github.com/hackerhouse-opensource/Stinger)
+  * [artillery](https://github.com/hackerhouse-opensource/Artillery/tree/main)
+  * [stinger](https://github.com/hackerhouse-opensource/Stinger)
   
 # WEB
 
