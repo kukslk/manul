@@ -99,6 +99,7 @@
 * [Gather credentials from various password managers and windows utilities](https://github.com/Slowerzs/ThievingFox/)
 * [weekpass dicts](https://weakpass.com/)
 # Toolkits
+* [Wikileaks redteam docs](https://wikileaks.org/ciav7p1/)
 * https://github.com/trustedsec/ptf
 * https://pastebin.com/cFMG8dy5
 * https://inventory.raw.pm/tools.html#title-tools-osint
