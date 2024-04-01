@@ -70,6 +70,7 @@
 * [Week linux soft finder](https://github.com/belane/linux-soft-exploit-suggester)
 * [Windows password ps1 logger](https://telegra.ph/Kak-poluchit-parol-administratora-na-rabochem-PK-v-domene-Active-Directory-08-05)
 * [Windows persistence](https://github.com/last-byte/PersistenceSniper/)
+* [Legba bruteforcer](https://github.com/evilsocket/legba)
   
 # WEB
 
