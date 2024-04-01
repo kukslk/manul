@@ -112,6 +112,7 @@
 * [another lab](https://mayfly277.github.io/posts/SCCM-LAB-part0x0/)
 * https://github.com/enaqx/awesome-pentest
 * [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
+* [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
 # CVE
 * CVE search tools
   * [searchsploit](https://gitlab.com/kalilinux/packages/exploitdb)
