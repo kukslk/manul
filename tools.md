@@ -75,6 +75,9 @@
 * UAC bypass
   * [artillery](https://github.com/hackerhouse-opensource/Artillery/tree/main)
   * [stinger](https://github.com/hackerhouse-opensource/Stinger)
+# PostExploitation
+
+* [Amnesiac](https://github.com/Leo4j/Amnesiac) for Win and [Bashark](https://github.com/redcode-labs/Bashark) for linux
   
 # WEB
 
