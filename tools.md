@@ -114,6 +114,7 @@
 * https://github.com/enaqx/awesome-pentest
 * [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 * [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
+* [Villian C2 platform](https://github.com/t3l3machus/Villain) working with [HoaxShell](https://github.com/t3l3machus/hoaxshell)
 # CVE
 * CVE search tools
   * [searchsploit](https://gitlab.com/kalilinux/packages/exploitdb)
