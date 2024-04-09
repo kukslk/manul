@@ -1,11 +1,12 @@
 # Python
 ### Libraries
 * Niquests - requests replacement
+* [Awesome python](https://github.com/vinta/awesome-python)
+* Tabulate - prettify tables output
 
 ### Mics
 
 * [Free ChatGPT](https://www.youtube.com/watch?v=tVDAQcag9-M)
-* Tabulate - prettify tables output
 * [Tricks](https://proglib.io/sh/gVMDfexA9U)
 * [Lightweight text editor](https://www.jetbrains.com/ru-ru/fleet/)
 * [Programming patterns](https://proglib.io/sh/aMZjqlAcr3)
