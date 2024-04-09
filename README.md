@@ -139,3 +139,4 @@
 * [Redteamrecipe](https://redteamrecipe.com/)
 * [swisskey manul](https://swisskyrepo.github.io/InternalAllTheThings/)
 * [Infosec sources](https://github.com/foorilla/allinfosecnews_sources)
+* [AD attack manul](https://defcon.ru/penetration-testing/18872/)
