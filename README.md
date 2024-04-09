@@ -138,3 +138,4 @@
 * [Hacktricks](https://book.hacktricks.xyz/)
 * [Redteamrecipe](https://redteamrecipe.com/)
 * [swisskey manul](https://swisskyrepo.github.io/InternalAllTheThings/)
+* [Infosec sources](https://github.com/foorilla/allinfosecnews_sources)
