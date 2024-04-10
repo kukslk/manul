@@ -113,7 +113,6 @@
 * https://inventory.raw.pm/tools.html#title-tools-osint
 * [RAT collection](https://github.com/yuankong666/Ultimate-RAT-Collection)
 * [Pentest active directory LAB](https://github.com/Orange-Cyberdefense/GOAD)
-* [another lab](https://mayfly277.github.io/posts/SCCM-LAB-part0x0/)
 * https://github.com/enaqx/awesome-pentest
 * [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 * [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
