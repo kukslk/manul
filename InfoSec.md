@@ -92,8 +92,8 @@
 
 * Service
 
-    `bash#> vim /etc/systemd/system/persistence.service  
-     bash$> vim ~/.config/systemd/user/persistence.service`
+    `bash#> vim /etc/systemd/system/persistence.service
+  bash$> vim ~/.config/systemd/user/persistence.service`
 
     `[Unit]\
 Description=persistence\
