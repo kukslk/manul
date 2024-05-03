@@ -72,8 +72,8 @@
   * [stinger](https://github.com/hackerhouse-opensource/Stinger)
 * [Adalanche - AD ACL Vizualizer](https://github.com/lkarlslund/Adalanche)
 * Kubernetes Attack&Defence
- * [Attack](https://kubenomicon.com/)
- * [Def](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/tactics/Persistence/)
+  * [Attack](https://kubenomicon.com/)
+  * [Def](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/tactics/Persistence/)
 * [LSA Whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
 # PERSISTANCE
 
