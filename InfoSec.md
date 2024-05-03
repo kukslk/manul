@@ -50,26 +50,19 @@
 * [ICMP tunneling](https://telegra.ph/Kak-hakery-ispolzuyut-ICMP-tunnelirovanie-chtoby-zavladet-setyu-organizacii-08-22-2)
 * CrackMapExec - helps automate assessing the security of large Active Directory networks
 * [firepwd](https://raw.githubusercontent.com/lclevy/firepwd/master/firepwd.py) -  decode Firefox passwords
-* [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 * [pwncat is a post-exploitation platform](https://github.com/calebstewart/pwncat)
 * [Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
 * [frp reverse proxy NAT bypass](https://github.com/fatedier/frp)
 * [Docker Enumeration, Escalation of Privileges and Container Escapes](https://github.com/stealthcopter/deepce)
 * [reverse shell generator](https://www.revshells.com)
-* [GTFOBins - UNIX LPE](https://gtfobins.github.io/)
 * [pspy - unprivileged Linux process snooping](https://github.com/DominicBreuker/pspy)
 * [Regex](https://regex101.com/)
-* [MS office dde](https://telegra.ph/Poleznoe-10-16-2)
-* [DLL Hijacking manul](https://elliotonsecurity.com/perfect-dll-hijacking/)
 * [reverse/back-connect SOCKS5 proxy tunnel](https://github.com/RedTeamPentesting/resocks)
 * [PowerShell Obfuscation Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
-* [Kerberos&AD manul](https://ardent101.github.io/)
 * SFX
-* [Hackerone reports](https://github.com/reddelexc/hackerone-reports)
 * [multythread tor proxy](https://telegra.ph/Mnogopotochnyj-TOR-proksi-na-Python-04-21)
 * [RDP MITM](https://github.com/GoSecure/pyrdp)
 * [reconFTW  - automates the entire process of reconnaissance](https://github.com/six2dez/reconftw)
-* [ACL manul](https://labs.lares.com/securing-active-directory-via-acls/)
 * [Week linux soft finder](https://github.com/belane/linux-soft-exploit-suggester)
 * [Windows password ps1 logger](https://telegra.ph/Kak-poluchit-parol-administratora-na-rabochem-PK-v-domene-Active-Directory-08-05)
 * [Windows persistence](https://github.com/last-byte/PersistenceSniper/)
@@ -203,6 +196,12 @@
 * [swisskey manul](https://swisskyrepo.github.io/InternalAllTheThings/)
 * [Infosec sources](https://github.com/foorilla/allinfosecnews_sources)
 * [AD attack manul](https://defcon.ru/penetration-testing/18872/)
+* [GTFOBins - UNIX LPE](https://gtfobins.github.io/)
+* [MS office dde](https://telegra.ph/Poleznoe-10-16-2)
+* [DLL Hijacking manul](https://elliotonsecurity.com/perfect-dll-hijacking/)
+* [Kerberos&AD manul](https://ardent101.github.io/)
+* [Hackerone reports](https://github.com/reddelexc/hackerone-reports)
+* [ACL manul](https://labs.lares.com/securing-active-directory-via-acls/)
 # PostExploitation
 
 * [Amnesiac](https://github.com/Leo4j/Amnesiac) for Win and [Bashark](https://github.com/redcode-labs/Bashark) for linux
@@ -268,6 +267,7 @@
 * [Gather credentials from various password managers and windows utilities](https://github.com/Slowerzs/ThievingFox/)
 * [weekpass dicts](https://weakpass.com/)
 # Toolkits
+* [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 * [Wikileaks redteam docs](https://wikileaks.org/ciav7p1/)
 * https://github.com/trustedsec/ptf
 * https://pastebin.com/cFMG8dy5
