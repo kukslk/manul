@@ -6,7 +6,7 @@
 
 ### Mics
 
-* [Roadmap for dev](roadmap.sh)
+* [Roadmap for dev](https://roadmap.sh)
 * [Free ChatGPT](https://www.youtube.com/watch?v=tVDAQcag9-M)
 * [Tricks](https://proglib.io/sh/gVMDfexA9U)
 * [Lightweight text editor](https://www.jetbrains.com/ru-ru/fleet/)
