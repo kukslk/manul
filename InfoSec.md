@@ -89,7 +89,7 @@
 # PERSISTANCE
 
 ## LINUX
-* [Linux Persistance MANNUL](https://hadess.io/the-art-of-linux-persistence)
+* [Linux Persistance MANUL](https://hadess.io/the-art-of-linux-persistence)
 
 * Autorun
 
