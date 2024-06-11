@@ -14,37 +14,43 @@
 * [Dorks collection](https://github.com/cipher387/Dorks-collections-list/)
 * https://www.cellmapper.net/
 * [Telegram OSINT](https://github.com/proseltd/Telepathy-Community)
-### Shodan dorks
+## Shodan dorks
 * https://github.com/humblelad/Shodan-Dorks
 * https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks
 * https://github.com/lothos612/shodan
 * https://github.com/jakejarvis/awesome-shodan-queries
 * https://github.com/IFLinfosec/shodan-dorks)
-### Web archieves
-* (http://trove.nla.gov.au/search/category/websites)
-* (https://www.webarchive.org.uk/)
-* (https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related)
-* (https://vefsafn.is/)
-* (https://arquivo.pt/)
-* (https://archive.vn/)
-* (https://archive.md/)
-* (https://theoldnet.com/)
-* (https://swap.stanford.edu/)
-* (http://webarchive.loc.gov/)
-* (http://wayback.archive-it.org/)
-* (http://web.archive.bibalex.org/)
-* (http://carbondate.cs.odu.edu/)
+## Web archieves
+* http://trove.nla.gov.au/search/category/websites
+* https://www.webarchive.org.uk/
+* https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related
+* https://vefsafn.is/
+* https://arquivo.pt/
+* https://archive.vn/
+* https://archive.md/
+* https://theoldnet.com/)
+* https://swap.stanford.edu/
+* http://webarchive.loc.gov/
+* http://wayback.archive-it.org/
+* http://web.archive.bibalex.org/
+* http://carbondate.cs.odu.edu/
 ### Documents archieves
-* (https://projects.icij.org/luxembourg-leaks/viz/industries/index.html)
-* (https://worldcat.org/)
-* (https://rootssearch.io/search)
-* (https://vault.fbi.gov/search)
-* (https://offshoreleaks.icij.org/)
-* (https://annas-archive.org/search)
-* (https://nationalarchives.gov.uk/)
-* (https://news-navigator.labs.loc.gov/search)
-* (http://industrydocuments.ucsf.edu/)
-* (https://doaj.org/search/journals)
+* https://projects.icij.org/luxembourg-leaks/viz/industries/index.html
+* https://worldcat.org/
+* https://rootssearch.io/search
+* https://vault.fbi.gov/search
+* https://offshoreleaks.icij.org/
+* https://annas-archive.org/search
+* https://nationalarchives.gov.uk/
+* https://news-navigator.labs.loc.gov/search
+* http://industrydocuments.ucsf.edu/
+* https://doaj.org/search/journals
+## TOR
+### Onion Search engines
+* [Tourch](http://xmh57jrzrnw6insl.onion/)
+* [QUO](http://quosl6t6c64mnn7d.onion/)
+* [not Evil](http://hss3uro2hsxfogfq.onion/)
+* [Haystack](http://haystakvxad7wbk5.onion/)
 # OS
 
 * [ICMP tunneling](https://telegra.ph/Kak-hakery-ispolzuyut-ICMP-tunnelirovanie-chtoby-zavladet-setyu-organizacii-08-22-2)
@@ -75,9 +81,15 @@
   * [Attack](https://kubenomicon.com/)
   * [Def](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/tactics/Persistence/)
 * [LSA Whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
+* [graftcp - proxychains analog](https://github.com/hmgle/graftcp)
+* [Windows updates](https://uupdump.net) and [activators](https://github.com/massgravel/Microsoft-Activation-Scripts)
+* [PS full mode reverse](https://github.com/Sh3lldon/FullBypass)
+* [Exe to DLL](https://github.com/hasherezade/exe_to_dll)
+
 # PERSISTANCE
 
 ## LINUX
+* [Linux Persistance MANNUL](https://hadess.io/the-art-of-linux-persistence)
 
 * Autorun
 
@@ -202,9 +214,14 @@
 * [Kerberos&AD manul](https://ardent101.github.io/)
 * [Hackerone reports](https://github.com/reddelexc/hackerone-reports)
 * [ACL manul](https://labs.lares.com/securing-active-directory-via-acls/)
+* [Mimikatz manul](https://hadess.io/mimikatz-comprehensive-guide/)
+* [Small red team manul](https://afine.com/red-team-trickery/)
+* [PHP Attack MANUL](https://blog.devsecopsguides.com/attacking-php)
+* [THC Cheatsheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 # PostExploitation
 
 * [Amnesiac](https://github.com/Leo4j/Amnesiac) for Win and [Bashark](https://github.com/redcode-labs/Bashark) for linux
+* [Unix trace clear tool](https://github.com/mufeedvh/moonwalk)
   
 # WEB
 ## SQLi
@@ -215,7 +232,8 @@
 * [Swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection)
 * [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 
-### XSS Vulnerability Scanner Tool's :
+## XSS 
+### XSS Scanner Tool's :
 
    * XSStrike
    * BruteXSS Terminal
@@ -225,7 +243,9 @@
    * xsscrapy
    * Cyclops
    * [XSS tools 2023](https://telegra.ph/xss-tools-08-06)
-### JWT Exploitation
+### Filters
+   * [Filters](https://github.com/Edr4/XSS-Bypass-Filters)
+## JWT Exploitation
   * Burp JWT Editor
   * Burp JSON Web Tokens
   * [JWT toolkit](https://github.com/ticarpi/jwt_tool)
@@ -255,6 +275,7 @@
  * [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
  * [VBad](https://github.com/Pepitoh/VBad)
  * [MacroPack](https://github.com/sevagas/macro_pack)
+* [ASP obfuscator](https://github.com/fin3ss3g0d/ASPJinjaObfuscator)
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
 * [appsecwiki](https://github.com/WhitePrime/appsecwiki)
