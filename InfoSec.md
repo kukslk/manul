@@ -258,23 +258,23 @@
 # Obfuscation
 
 * Powershell
- * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
- * [Chimera](https://github.com/tokyoneon/Chimera)
+** [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
+** [Chimera](https://github.com/tokyoneon/Chimera)
 * Python
- * [Pyarmor](https://github.com/dashingsoft/pyarmor)
- * [Hyperion](https://github.com/billythegoat356/Hyperion)
+** [Pyarmor](https://github.com/dashingsoft/pyarmor)
+** [Hyperion](https://github.com/billythegoat356/Hyperion)
 * Bash
- * [Blind-Bash](https://github.com/FajarKim/blind-bash)
- * [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
+** [Blind-Bash](https://github.com/FajarKim/blind-bash)
+** [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
 * Batch
- * [BatchObfuscator](https://github.com/guillaC/BatchObfuscator)
- * [Somalifuscator](https://github.com/KDot227/SomalifuscatorV2)
+** [BatchObfuscator](https://github.com/guillaC/BatchObfuscator)
+** [Somalifuscator](https://github.com/KDot227/SomalifuscatorV2)
 * PHP
- * [YAK Pro](https://github.com/pk-fr/yakpro-po)
+** [YAK Pro](https://github.com/pk-fr/yakpro-po)
 * VBA
- * [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
- * [VBad](https://github.com/Pepitoh/VBad)
- * [MacroPack](https://github.com/sevagas/macro_pack)
+** [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
+** [VBad](https://github.com/Pepitoh/VBad)
+** [MacroPack](https://github.com/sevagas/macro_pack)
 * [ASP obfuscator](https://github.com/fin3ss3g0d/ASPJinjaObfuscator)
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
