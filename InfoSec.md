@@ -252,28 +252,46 @@
   * [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 
-* [Flask Unsign - Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
+* [Flask Unsign - Co###Powershell
+ * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
+ * [Chimera](https://github.com/tokyoneon/Chimera)
+###Python
+ * [Pyarmor](https://github.com/dashingsoft/pyarmor)
+ * [Hyperion](https://github.com/billythegoat356/Hyperion)
+###Bash
+ * [Blind-Bash](https://github.com/FajarKim/blind-bash)
+ * [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
+###Batch
+ * [BatchObfuscator](https://github.com/guillaC/BatchObfuscator)
+ * [Somalifuscator](https://github.com/KDot227/SomalifuscatorV2)
+###PHP
+ * [YAK Pro](https://github.com/pk-fr/yakpro-po)
+###VBA
+ * [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
+ * [VBad](https://github.com/Pepitoh/VBad)
+ * [MacroPack](https://github.com/sevagas/macro_pack)<br><br>
+[ASP obfuscator](https://github.com/fin3ss3g0d/ASPJinjaObfuscator)mmand line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
 * [phpinfo() exploitation](https://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
 
 # Obfuscation
-Powershell
-* [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
-* [Chimera](https://github.com/tokyoneon/Chimera)
-Python
-* [Pyarmor](https://github.com/dashingsoft/pyarmor)
-* [Hyperion](https://github.com/billythegoat356/Hyperion)
-Bash
-* [Blind-Bash](https://github.com/FajarKim/blind-bash)
-* [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
-Batch
-* [BatchObfuscator](https://github.com/guillaC/BatchObfuscator)
-* [Somalifuscator](https://github.com/KDot227/SomalifuscatorV2)
-PHP
-* [YAK Pro](https://github.com/pk-fr/yakpro-po)
-VBA
-* [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
-* [VBad](https://github.com/Pepitoh/VBad)
-* [MacroPack](https://github.com/sevagas/macro_pack)
+###Powershell
+ * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
+ * [Chimera](https://github.com/tokyoneon/Chimera)
+###Python
+ * [Pyarmor](https://github.com/dashingsoft/pyarmor)
+ * [Hyperion](https://github.com/billythegoat356/Hyperion)
+###Bash
+ * [Blind-Bash](https://github.com/FajarKim/blind-bash)
+ * [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator)
+###Batch
+ * [BatchObfuscator](https://github.com/guillaC/BatchObfuscator)
+ * [Somalifuscator](https://github.com/KDot227/SomalifuscatorV2)
+###PHP
+ * [YAK Pro](https://github.com/pk-fr/yakpro-po)
+###VBA
+ * [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
+ * [VBad](https://github.com/Pepitoh/VBad)
+ * [MacroPack](https://github.com/sevagas/macro_pack)<br><br>
 [ASP obfuscator](https://github.com/fin3ss3g0d/ASPJinjaObfuscator)
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
