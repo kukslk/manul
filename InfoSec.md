@@ -274,7 +274,7 @@
 ### VBA
  * [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator/tree/master)
  * [VBad](https://github.com/Pepitoh/VBad)
- * [MacroPack](https://github.com/sevagas/macro_pack)<br>
+ * [MacroPack](https://github.com/sevagas/macro_pack)
 [ASP obfuscator](https://github.com/fin3ss3g0d/ASPJinjaObfuscator)
 # Mobile APP
 * [QARK (Quick App Review Kit)](https://spy-soft.net/dekompilyaciya-apk/)
