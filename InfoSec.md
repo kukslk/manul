@@ -218,6 +218,7 @@
 * [Small red team manul](https://afine.com/red-team-trickery/)
 * [PHP Attack MANUL](https://blog.devsecopsguides.com/attacking-php)
 * [THC Cheatsheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+* [Linux manul](linux_hacker_manul)
 # PostExploitation
 
 * [Amnesiac](https://github.com/Leo4j/Amnesiac) for Win and [Bashark](https://github.com/redcode-labs/Bashark) for linux
