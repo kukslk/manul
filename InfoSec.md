@@ -256,6 +256,7 @@
 * [phpinfo() exploitation](https://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
 
 # Obfuscation
+
 ###Powershell
  * [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
  * [Chimera](https://github.com/tokyoneon/Chimera)
