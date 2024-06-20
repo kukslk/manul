@@ -1,7 +1,7 @@
 # Python
 
 - [Cheatsheet](https://kieranholland.com/best-python-cheat-sheet/best-python-cheat-sheet.pdf)
-
+- [Test assignment](https://github.com/Hexlet/ru-test-assignments)
 ### Libraries
 - Niquests - requests replacement
 - [Awesome python](https://github.com/vinta/awesome-python)
