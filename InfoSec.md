@@ -206,6 +206,8 @@
 - [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes-2-0/)
 - [Hacktricks](https://book.hacktricks.xyz/)
 - [Redteamrecipe](https://redteamrecipe.com/)
+- [Red Team Guides](https://book.redteamguides.com/)
+- [Blue Team Guides](https://book.blueteamguides.com/)
 - [swisskey manul](https://swisskyrepo.github.io/InternalAllTheThings/)
 - [Infosec sources](https://github.com/foorilla/allinfosecnews_sources)
 - [AD attack manul](https://defcon.ru/penetration-testing/18872/)
@@ -255,7 +257,7 @@
 
 
 - [Flask Unsign - Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
-- [phpinfo() exploitation](https://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
+- [phpinfo() exploitation](httpshttps://mayfly277.github.io/categories/ad/://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
 
 # Obfuscation
 
@@ -297,7 +299,7 @@
 - https://pastebin.com/cFMG8dy5
 - https://inventory.raw.pm/tools.html#title-tools-osint
 - [RAT collection](https://github.com/yuankong666/Ultimate-RAT-Collection)
-- [Pentest active directory LAB](https://github.com/Orange-Cyberdefense/GOAD)
+- [Pentest active directory LAB](https://github.com/Orange-Cyberdefense/GOAD) and [writeup](https://mayfly277.github.io/categories/ad/)
 - https://github.com/enaqx/awesome-pentest
 - [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 - [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
