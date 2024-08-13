@@ -1,2 +1,7 @@
 - [x] Python3
-- [x]
+- [-] Django
+  - [x] model
+  - [x] view
+    - []
+  - [x] template
+  - []
