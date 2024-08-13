@@ -222,6 +222,8 @@
 - [PHP Attack MANUL](https://blog.devsecopsguides.com/attacking-php)
 - [THC Cheatsheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 - [Linux manul](linux_hacker_manul)
+- [CEHv10 - leaked slides and labs](https://github.com/khanhnnvn/CEHv10)
+
 # PostExploitation
 
 - [Amnesiac](https://github.com/Leo4j/Amnesiac) for Win and [Bashark](https://github.com/redcode-labs/Bashark) for linux

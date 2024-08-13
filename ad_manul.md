@@ -26,7 +26,7 @@
   - nmap  
   `nmap -p 88 --script=krb5-enum-users --script-args="krb5-enum-users.realm='DOMAIN',userdb=users.txt" 192.168.56.10`
 
-- List guest access on shares
+- List guest access on shares  
   `cme smb 192.168.56.10-23 -u 'a' -p '' --shares`
 
 - ASREP - roasting

@@ -20,3 +20,4 @@
 ## mergre
 * git merge ***branch***
 # Git and GitHub
+* git pull --rebase origin main   - pull from github
