@@ -1,7 +1,17 @@
 - [x] Python3
 - [ ] Django
   - [x] model
+    - [ ] managers
   - [x] view
     - [ ]
-  - [x] template
-  - [ ]
+  - [ ] template
+  - [ ] requests
+    - [ ] decorators
+    - [ ] files
+  - [ ] forms
+  - [ ] testing
+  - [ ] cache
+  - [ ] cryptographic signing
+  - [ ] email
+  - [ ] pagination
+  - [ ] security
