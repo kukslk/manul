@@ -1,3 +1,4 @@
+- [x] Cybersecurity
 - [x] Python3
 - [ ] Backend
     - [ ] Django
@@ -26,7 +27,7 @@
     - [x] Linux
     - [x] SQL
 - [ ] Frontend
-    - [ ] HTML
+    - [x] HTML
     - [ ] CSS
     - [ ] JS
     - [ ] Bootstrap
