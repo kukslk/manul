@@ -12,8 +12,10 @@
 - [Email OSINT](https://github.com/khast3x/h8mail)
 - [Osint LEAK](https://leakix.net/)
 - [Dorks collection](https://github.com/cipher387/Dorks-collections-list/)
+- [Telegram osint toolbox](https://github.com/The-Osint-Toolbox/Telegram-OSINT)
 - https://www.cellmapper.net/
 - [Telegram OSINT](https://github.com/proseltd/Telepathy-Community)
+- [EmailFinder](https://github.com/Josue87/EmailFinder)
 ## Shodan dorks
 - https://github.com/humblelad/Shodan-Dorks
 - https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks
@@ -52,7 +54,10 @@
 - [not Evil](http://hss3uro2hsxfogfq.onion/)
 - [Haystack](http://haystakvxad7wbk5.onion/)
 # OS
-
+- [tunneling swiss knife](https://github.com/go-gost/gost)
+- [firewall crasher](https://github.com/moxie0/knockknock)
+- [dump coockies from Chrome process](https://github.com/Meckazin/ChromeKatz)
+- [reverse shells](https://github.com/stivenhacker/EchoStrike)
 - [ICMP tunneling](https://telegra.ph/Kak-hakery-ispolzuyut-ICMP-tunnelirovanie-chtoby-zavladet-setyu-organizacii-08-22-2)
 - CrackMapExec - helps automate assessing the security of large Active Directory networks
 - [firepwd](https://raw.githubusercontent.com/lclevy/firepwd/master/firepwd.py) -  decode Firefox passwords
@@ -60,6 +65,7 @@
 - [Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
 - [frp reverse proxy NAT bypass](https://github.com/fatedier/frp)
 - [Docker Enumeration, Escalation of Privileges and Container Escapes](https://github.com/stealthcopter/deepce)
+- [Linpeas analog](https://github.com/TH3xACE/SUDO_KILLER)
 - [reverse shell generator](https://www.revshells.com)
 - [pspy - unprivileged Linux process snooping](https://github.com/DominicBreuker/pspy)
 - [Regex](https://regex101.com/)
@@ -223,7 +229,7 @@
 - [ACL manul](https://labs.lares.com/securing-active-directory-via-acls/)
 - [Mimikatz manul](https://hadess.io/mimikatz-comprehensive-guide/)
 - [Small red team manul](https://afine.com/red-team-trickery/)
-- [PHP Attack MANUL](https://blog.devsecopsguides.com/attacking-php)
+- [PHP Attack MANUL and others](https://blog.devsecopsguides.com/attacking-php)
 - [THC Cheatsheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 - [Linux manul](linux_hacker_manul)
 - [CEHv10 - leaked slides and labs](https://github.com/khanhnnvn/CEHv10)
