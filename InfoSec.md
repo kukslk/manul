@@ -227,6 +227,8 @@
 - [THC Cheatsheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 - [Linux manul](linux_hacker_manul)
 - [CEHv10 - leaked slides and labs](https://github.com/khanhnnvn/CEHv10)
+- [malicious files](https://filesec.io)
+- [manuls](https://posts.specterops.io/)
 
 # PostExploitation
 
