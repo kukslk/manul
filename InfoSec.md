@@ -86,11 +86,15 @@
 - [PS full mode reverse](https://github.com/Sh3lldon/FullBypass)
 - [Exe to DLL](https://github.com/hasherezade/exe_to_dll)
 - [WMEye - lateral movement using WMI](https://github.com/pwn1sher/WMEye)
+- [EDRSilencer - block outbound traffic of running EDR processes](https://github.com/netero1010/EDRSilencer)
+- [adPEAS - ps1 AD enumeration module](https://github.com/61106960/adPEAS)
+- [Ciphey - automated decryption/decoding/cracking tool ](https://github.com/Ciphey/Ciphey)
 
 # PERSISTANCE
 
 ## LINUX
 - [Linux Persistance MANUL](https://hadess.io/the-art-of-linux-persistence)
+- [PANIX](https://github.com/Aegrah/PANIX)
 
 - Autorun
 
@@ -289,6 +293,7 @@
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 - [Drozen](https://github.com/WithSecureLabs/drozer)
 - [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio)
+- [ApkScan - scan android files for secrets and endpoints](https://github.com/LucasFaudman/apkscan)
 # Passwords
 - [Passwords manul](https://labs.lares.com/password-analysis/)
 - [Defaults&dorks](https://book.redteamguides.com/guides/tips-and-tricks)
@@ -302,6 +307,7 @@
 - https://inventory.raw.pm/tools.html#title-tools-osint
 - [RAT collection](https://github.com/yuankong666/Ultimate-RAT-Collection)
 - [Pentest active directory LAB](https://github.com/Orange-Cyberdefense/GOAD) and [writeup](https://mayfly277.github.io/categories/ad/)
+- [Another LAB](https://github.com/R3dy/capsulecorp-pentest)
 - https://github.com/enaqx/awesome-pentest
 - [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 - [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
@@ -317,7 +323,9 @@
 - [fortigate](https://github.com/horizon3ai/CVE-2022-40684)
 - [FortiNAC](https://github.com/horizon3ai/CVE-2022-39952)
 - [Jommla](https://github.com/ThatNotEasy/CVE-2023-23752)
+- [GSM Kernel LPE in Linux](https://github.com/YuriiCrimson/ExploitGSM/)
 
 # BlueTeam
 
 - [WELA (Windows Event Log Analyzer)](https://github.com/Yamato-Security/WELA)
+- [SIEM rules collection](https://github.com/SigmaHQ/sigma)
