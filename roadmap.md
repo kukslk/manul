@@ -43,3 +43,10 @@
         - [ ] Session
 - [ ] Data Analyst
 - [ ] AI and Data Sience
+    - [ ] RMDL
+    - [ ] SVM
+    - [ ] NN
+    - [ ] CNN
+    - [ ] k-NN
+    - [ ] Gradient boosting
+    - [ ] Linear classifier

@@ -28,6 +28,7 @@
 - [sort](https://proglib.io/p/sravnenie-6-algoritmov-sortirovki-puzyrkom-vyborom-kuchey-vstavkami-sliyaniem-i-bystraya-2022-02-08)
 - [Algorithms](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 - [Backend good practice](https://github.com/beagreatengineer/how-to-develop-perfect-crud)
+- [Add subtitles](https://proglib.io/sh/9XEcLKFqiR)
 # AI
 - [Voice gen](https://proglib.io/p/16-luchshih-neyronok-dlya-sinteza-rechi-2023-11-08)
 - [OpenSource libraries](https://teletype.in/@spiral_gleb/0_WqmvqZAa1)
