@@ -308,6 +308,7 @@
 - [Gather credentials from various password managers and windows utilities](https://github.com/Slowerzs/ThievingFox/)
 - [weekpass dicts](https://weakpass.com/)
 # Toolkits
+- [BlueTeam](https://github.com/A-poc/BlueTeam-Tools) and [RedTeam](https://github.com/A-poc/RedTeam-Tools) toolkits
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 - [Wikileaks redteam docs](https://wikileaks.org/ciav7p1/)
 - https://github.com/trustedsec/ptf
@@ -334,6 +335,7 @@
 - [GSM Kernel LPE in Linux](https://github.com/YuriiCrimson/ExploitGSM/)
 
 # BlueTeam
-
+- [Windows firewall](https://github.com/tnodir/fort)
+- [Windows log config](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - [WELA (Windows Event Log Analyzer)](https://github.com/Yamato-Security/WELA)
 - [SIEM rules collection](https://github.com/SigmaHQ/sigma)
