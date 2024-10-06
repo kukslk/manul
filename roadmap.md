@@ -50,3 +50,11 @@
     - [ ] k-NN
     - [ ] Gradient boosting
     - [ ] Linear classifier
+    - Libraries
+        - [ ] NumPy
+        - [ ] Pandas
+        - [ ] SciPy
+        - [ ] Sci-Kit Learn
+        - [ ] TensorFlow
+        - [ ] PyTorch
+        - [ ] Keras
