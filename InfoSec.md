@@ -307,6 +307,7 @@
 - [Defaults&dorks](https://book.redteamguides.com/guides/tips-and-tricks)
 - [Gather credentials from various password managers and windows utilities](https://github.com/Slowerzs/ThievingFox/)
 - [weekpass dicts](https://weakpass.com/)
+- [recovery tools](https://www.nirsoft.net/password_recovery_tools.html)
 # Toolkits
 - [BlueTeam](https://github.com/A-poc/BlueTeam-Tools) and [RedTeam](https://github.com/A-poc/RedTeam-Tools) toolkits
 - [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
