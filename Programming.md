@@ -7,6 +7,8 @@
 - [Awesome python](https://github.com/vinta/awesome-python)
 - Tabulate - prettify tables output
 - [Numba - High Performance Python Compiler](https://github.com/numba/numba)
+- Vulture - Find dead code
+- pipreqs - generate requirements.txt 
 
 ### Visualisation
 - [Taipy](https://github.com/Avaiga/taipy)
@@ -32,3 +34,4 @@
 # AI
 - [Voice gen](https://proglib.io/p/16-luchshih-neyronok-dlya-sinteza-rechi-2023-11-08)
 - [OpenSource libraries](https://teletype.in/@spiral_gleb/0_WqmvqZAa1)
+- [AI swissknife](https://app.giz.ai)

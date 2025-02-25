@@ -17,6 +17,7 @@
 - [Telegram OSINT](https://github.com/proseltd/Telepathy-Community)
 - [EmailFinder](https://github.com/Josue87/EmailFinder)
 ## Shodan dorks
+- https://github.com/nullfuzz-pentest/shodan-dorks
 - https://github.com/humblelad/Shodan-Dorks
 - https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks
 - https://github.com/lothos612/shodan
@@ -95,6 +96,8 @@
 - [EDRSilencer - block outbound traffic of running EDR processes](https://github.com/netero1010/EDRSilencer)
 - [adPEAS - ps1 AD enumeration module](https://github.com/61106960/adPEAS)
 - [Ciphey - automated decryption/decoding/cracking tool ](https://github.com/Ciphey/Ciphey)
+- [ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner)
+- [DonPAPI - automates secrets dump remotely](https://github.com/login-securite/DonPAPI)
 
 # PERSISTANCE
 
@@ -146,7 +149,7 @@
 ## WINDOWS
 
 - [Windows domain persistence](https://hadess.io/pwning-the-domain-persistence/)
-
+- [Windows persistence mechanisms](https://persistence-info.github.io/)
 - Autorun
 
     `cmd$> copy meter.exe %APPDATA%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\`<br>
@@ -225,6 +228,7 @@
 - [MS office dde](https://telegra.ph/Poleznoe-10-16-2)
 - [DLL Hijacking manul](https://elliotonsecurity.com/perfect-dll-hijacking/)
 - [Kerberos&AD manul](https://ardent101.github.io/)
+- [Kerberos manul](https://habr.com/ru/articles/803163/)
 - [Hackerone reports](https://github.com/reddelexc/hackerone-reports)
 - [ACL manul](https://labs.lares.com/securing-active-directory-via-acls/)
 - [Mimikatz manul](https://hadess.io/mimikatz-comprehensive-guide/)
@@ -235,6 +239,8 @@
 - [CEHv10 - leaked slides and labs](https://github.com/khanhnnvn/CEHv10)
 - [malicious files](https://filesec.io)
 - [manuls](https://posts.specterops.io/)
+- [offensive security roadmap](https://github.com/curiv/russian-offensive-security-questions)
+- [OSCP cheatsheet](https://github.com/curiv/oscp-cheatsheet)
 
 # PostExploitation
 
@@ -268,8 +274,15 @@
   - Burp JSON Web Tokens
   - [JWT toolkit](https://github.com/ticarpi/jwt_tool)
   - [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
+## RCE
+  - [RCE](https://teletype.in/@haccking/fEjIRmwQsqx)
+## File Upload
+  - [Manul](https://teletype.in/@haccking/YbvqtIuAAXh)
 
-
+## Mics
+- [OneLiners](https://github.com/thecybertix/One-Liner-Collections)
+- [Open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
+- [jshunter - JS analyser](https://github.com/cc1a2b/jshunter)
 - [Flask Unsign - Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
 - [phpinfo() exploitation](httpshttps://mayfly277.github.io/categories/ad/://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
 
@@ -321,6 +334,8 @@
 - [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 - [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
 - [Villian C2 platform](https://github.com/t3l3machus/Villain) working with [HoaxShell](https://github.com/t3l3machus/hoaxshell)
+- [Adaptix C2 framework](https://adaptix-framework.gitbook.io/adaptix-framework)
+
 # CVE
 - CVE search tools
   - [searchsploit](https://gitlab.com/kalilinux/packages/exploitdb)
@@ -340,3 +355,4 @@
 - [Windows log config](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - [WELA (Windows Event Log Analyzer)](https://github.com/Yamato-Security/WELA)
 - [SIEM rules collection](https://github.com/SigmaHQ/sigma)
+- [Volatility 3: The volatile memory extraction framework](https://github.com/volatilityfoundation/volatility3)

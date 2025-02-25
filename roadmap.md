@@ -3,7 +3,7 @@
 - [ ] Backend
     - [ ] Django
         - [x] model
-            - [ ] managers
+            - [x] managers
         - [x] views
         - [ ] template
         - [ ] requests
