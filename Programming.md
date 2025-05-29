@@ -35,3 +35,4 @@
 - [Voice gen](https://proglib.io/p/16-luchshih-neyronok-dlya-sinteza-rechi-2023-11-08)
 - [OpenSource libraries](https://teletype.in/@spiral_gleb/0_WqmvqZAa1)
 - [AI swissknife](https://app.giz.ai)
+- [AI community](https://huggingface.co/)

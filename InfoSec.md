@@ -1,5 +1,6 @@
 # OSINT
 
+- [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
 - [METAOsint (>4000)](https://metaosint.github.io/table)
 - [Chiasmodon - OSINT domain analyzer](https://github.com/chiasmod0n/chiasmodon)
 - [REVERSE WHOIS LOOKUP](https://github.com/devanshbatham/revwhoix)
@@ -16,6 +17,7 @@
 - https://www.cellmapper.net/
 - [Telegram OSINT](https://github.com/proseltd/Telepathy-Community)
 - [EmailFinder](https://github.com/Josue87/EmailFinder)
+- [DockerSpy - sensitive information](https://github.com/UndeadSec/DockerSpy)
 ## Shodan dorks
 - https://github.com/nullfuzz-pentest/shodan-dorks
 - https://github.com/humblelad/Shodan-Dorks
@@ -55,6 +57,11 @@
 - [not Evil](http://hss3uro2hsxfogfq.onion/)
 - [Haystack](http://haystakvxad7wbk5.onion/)
 # OS
+- [Decrypting Yandex Browser passwords](https://github.com/akhomlyuk/Ya_Decrypt)
+- [Kraken - All-in-One Toolkit for BruteForce Attacks](https://github.com/jasonxtn/Kraken)
+- [Process injection techniques and POCs](https://github.com/itaymigdal/awesome-injection)
+- [MassDNS - high-performance DNS stub resolver](https://github.com/blechschmidt/massdns)
+- [OneForAll- subdomain finder](https://github.com/shmilylty/OneForAll)
 - [tunneling swiss knife](https://github.com/go-gost/gost)
 - [firewall crasher](https://github.com/moxie0/knockknock)
 - [dump coockies from Chrome process](https://github.com/Meckazin/ChromeKatz)
@@ -78,7 +85,6 @@
 - [reconFTW  - automates the entire process of reconnaissance](https://github.com/six2dez/reconftw)
 - [Week linux soft finder](https://github.com/belane/linux-soft-exploit-suggester)
 - [Windows password ps1 logger](https://telegra.ph/Kak-poluchit-parol-administratora-na-rabochem-PK-v-domene-Active-Directory-08-05)
-- [Windows persistence](https://github.com/last-byte/PersistenceSniper/)
 - [Legba bruteforcer](https://github.com/evilsocket/legba)
 - UAC bypass
   - [artillery](https://github.com/hackerhouse-opensource/Artillery/tree/main)
@@ -98,12 +104,13 @@
 - [Ciphey - automated decryption/decoding/cracking tool ](https://github.com/Ciphey/Ciphey)
 - [ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner)
 - [DonPAPI - automates secrets dump remotely](https://github.com/login-securite/DonPAPI)
-
+- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 # PERSISTANCE
 
 ## LINUX
 - [Linux Persistance MANUL](https://hadess.io/the-art-of-linux-persistence)
 - [PANIX](https://github.com/Aegrah/PANIX)
+- [Windows persistence](https://github.com/last-byte/PersistenceSniper/)
 
 - Autorun
 
@@ -241,6 +248,7 @@
 - [manuls](https://posts.specterops.io/)
 - [offensive security roadmap](https://github.com/curiv/russian-offensive-security-questions)
 - [OSCP cheatsheet](https://github.com/curiv/oscp-cheatsheet)
+- [RedTeam TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
 
 # PostExploitation
 
@@ -280,6 +288,7 @@
   - [Manul](https://teletype.in/@haccking/YbvqtIuAAXh)
 
 ## Mics
+- [Vulns checklist](https://github.com/Az0x7/vulnerability-Checklist)
 - [OneLiners](https://github.com/thecybertix/One-Liner-Collections)
 - [Open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 - [jshunter - JS analyser](https://github.com/cc1a2b/jshunter)
@@ -357,3 +366,5 @@
 - [WELA (Windows Event Log Analyzer)](https://github.com/Yamato-Security/WELA)
 - [SIEM rules collection](https://github.com/SigmaHQ/sigma)
 - [Volatility 3: The volatile memory extraction framework](https://github.com/volatilityfoundation/volatility3)
+- [Wazuh - opensource XDR and SIEM protection](https://github.com/wazuh/wazuh)
+- [Digital Forensics and Incident Response](https://habr.com/ru/companies/bastion/articles/651869/)
