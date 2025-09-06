@@ -1,0 +1,60 @@
+- [x] Cybersecurity
+- [x] Python3
+- [ ] Backend
+    - [ ] Django
+        - [x] model
+            - [x] managers
+        - [x] views
+        - [ ] template
+        - [ ] requests
+            - [ ] decorators
+            - [ ] files
+        - [ ] forms
+        - [ ] testing
+        - [ ] authentification
+        - [ ] cache
+        - [ ] cryptographic signing
+        - [ ] email
+        - [ ] pagination
+        - [ ] security
+    - [ ] Real-Time data
+        - [ ] Servers sent events
+        - [ ] WebSockets
+        - [ ] Polling
+    - [ ] NoSQL
+    - [x] Git
+    - [x] Docker
+    - [x] Linux
+    - [x] SQL
+- [ ] Frontend
+    - [x] HTML
+    - [ ] CSS
+    - [ ] JS
+    - [ ] Bootstrap
+    - [ ] Frameworks
+        - [ ] React
+        - [ ] Vue.js
+        - [ ] Angular
+    - [ ] Auth
+        - [ ] JWT
+        - [ ] OAuth
+        - [ ] SSO
+        - [ ] Basic
+        - [ ] Session
+- [ ] Data Analyst
+- [ ] AI and Data Sience
+    - [ ] RMDL
+    - [ ] SVM
+    - [ ] NN
+    - [ ] CNN
+    - [ ] k-NN
+    - [ ] Gradient boosting
+    - [ ] Linear classifier
+    - Libraries
+        - [ ] NumPy
+        - [ ] Pandas
+        - [ ] SciPy
+        - [ ] Sci-Kit Learn
+        - [ ] TensorFlow
+        - [ ] PyTorch
+        - [ ] Keras
