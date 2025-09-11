@@ -57,6 +57,7 @@
 - [not Evil](http://hss3uro2hsxfogfq.onion/)
 - [Haystack](http://haystakvxad7wbk5.onion/)
 # OS
+- [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 - [Decrypting Yandex Browser passwords](https://github.com/akhomlyuk/Ya_Decrypt)
 - [Kraken - All-in-One Toolkit for BruteForce Attacks](https://github.com/jasonxtn/Kraken)
 - [Process injection techniques and POCs](https://github.com/itaymigdal/awesome-injection)

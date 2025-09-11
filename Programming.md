@@ -1,5 +1,8 @@
 # Python
 
+pip freeze > requirements.txt
+
+
 - [Cheatsheet](https://kieranholland.com/best-python-cheat-sheet/best-python-cheat-sheet.pdf)
 - [Test assignment](https://github.com/Hexlet/ru-test-assignments)
 ### Libraries
@@ -14,12 +17,13 @@
 - [Taipy](https://github.com/Avaiga/taipy)
 - [Plotly](https://github.com/plotly)
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
-  - [Examples](https://pythonist.ru/kak-postroit-matematicheskij-grafik-v-python-za-10-minut/)
+- [Examples](https://pythonist.ru/kak-postroit-matematicheskij-grafik-v-python-za-10-minut/)
 - [Seaborn](https://github.com/seaborn)
 - [Bokeh](https://github.com/bokeh/bokeh)
 - [Gradio](https://github.com/gradio-app/gradio)
 - [Streamlit](https://github.com/streamlit)
- - [Collection of charts made with Python](https://python-graph-gallery.com/)
+- [Collection of charts made with Python](https://python-graph-gallery.com/)
+- [Wordcloud]()
 ### Mics
 
 - [Roadmap for dev](https://roadmap.sh)
