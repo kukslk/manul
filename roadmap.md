@@ -15,7 +15,7 @@
         - [ ] cache
         - [ ] cryptographic signing
         - [ ] email
-        - [ ] pagination
+        - [x] pagination
         - [ ] security
     - [ ] Real-Time data
         - [ ] Servers sent events
@@ -28,9 +28,9 @@
     - [x] SQL
 - [ ] Frontend
     - [x] HTML
-    - [ ] CSS
+    - [x] CSS
     - [ ] JS
-    - [ ] Bootstrap
+    - [x] Bootstrap
     - [ ] Frameworks
         - [ ] React
         - [ ] Vue.js
