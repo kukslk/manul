@@ -256,7 +256,7 @@
 - [Real-world tactics and techniques](https://attack.mitre.org/)
 - [HTB writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 - [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
-- (https://pentestnotes.ru/)
+- https://pentestnotes.ru/
 
 # PostExploitation
 
