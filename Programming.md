@@ -1,3 +1,9 @@
+# Education
+
+- Stepik
+- Лекториум
+- Универсариум
+
 # Python
 
 pip freeze > requirements.txt
@@ -6,6 +12,7 @@ pip freeze > requirements.txt
 - [Cheatsheet](https://kieranholland.com/best-python-cheat-sheet/best-python-cheat-sheet.pdf)
 - [Test assignment](https://github.com/Hexlet/ru-test-assignments)
 ### Libraries
+- [Create star charts and maps of the sky](https://starplot.dev/)
 - Niquests - requests replacement
 - [Awesome python](https://github.com/vinta/awesome-python)
 - Tabulate - prettify tables output

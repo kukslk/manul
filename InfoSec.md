@@ -255,11 +255,14 @@
 - [WEB APP atack matrix](https://app-attack-matrix.com/)
 - [Real-world tactics and techniques](https://attack.mitre.org/)
 - [HTB writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
+- [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
+- (https://pentestnotes.ru/)
 
 # PostExploitation
 
 - [Amnesiac](https://github.com/Leo4j/Amnesiac) for Win and [Bashark](https://github.com/redcode-labs/Bashark) for linux
 - [Unix trace clear tool](https://github.com/mufeedvh/moonwalk)
+- [Koadic](https://github.com/offsecginger/koadic)
   
 # WEB
 ## SQLi
