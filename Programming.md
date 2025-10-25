@@ -2,7 +2,7 @@
 
 pip freeze > requirements.txt
 
-
+- [Best practice handbook](https://docs.python-guide.org/)
 - [Cheatsheet](https://kieranholland.com/best-python-cheat-sheet/best-python-cheat-sheet.pdf)
 - [Test assignment](https://github.com/Hexlet/ru-test-assignments)
 ### Libraries

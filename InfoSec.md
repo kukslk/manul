@@ -1,5 +1,4 @@
 # OSINT
-
 - [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
 - [METAOsint (>4000)](https://metaosint.github.io/table)
 - [Chiasmodon - OSINT domain analyzer](https://github.com/chiasmod0n/chiasmodon)
@@ -69,6 +68,7 @@
 - [reverse shells](https://github.com/stivenhacker/EchoStrike)
 - [ICMP tunneling](https://telegra.ph/Kak-hakery-ispolzuyut-ICMP-tunnelirovanie-chtoby-zavladet-setyu-organizacii-08-22-2)
 - CrackMapExec - helps automate assessing the security of large Active Directory networks
+- [Information for PuTTY, WinSCP, FileZilla, SuperPuTTY, and RDP](https://github.com/Arvanaghi/SessionGopher)
 - [firepwd](https://raw.githubusercontent.com/lclevy/firepwd/master/firepwd.py) -  decode Firefox passwords
 - [pwncat is a post-exploitation platform](https://github.com/calebstewart/pwncat)
 - [Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
@@ -106,6 +106,7 @@
 - [ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner)
 - [DonPAPI - automates secrets dump remotely](https://github.com/login-securite/DonPAPI)
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+- [Notification APP](https://github.com/caronc/apprise)
 # PERSISTANCE
 
 ## LINUX
@@ -224,6 +225,7 @@
 
 # MANUALS
 
+- [Privacy](https://github.com/StellarSand/privacy-settings)
 - [Red Team Notes](https://dmcxblue.gitbook.io/red-team-notes-2-0/)
 - [Hacktricks](https://book.hacktricks.xyz/)
 - [Redteamrecipe](https://redteamrecipe.com/)
@@ -250,6 +252,9 @@
 - [offensive security roadmap](https://github.com/curiv/russian-offensive-security-questions)
 - [OSCP cheatsheet](https://github.com/curiv/oscp-cheatsheet)
 - [RedTeam TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
+- [WEB APP atack matrix](https://app-attack-matrix.com/)
+- [Real-world tactics and techniques](https://attack.mitre.org/)
+- [HTB writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 
 # PostExploitation
 
@@ -341,6 +346,7 @@
 - [RAT collection](https://github.com/yuankong666/Ultimate-RAT-Collection)
 - [Pentest active directory LAB](https://github.com/Orange-Cyberdefense/GOAD) and [writeup](https://mayfly277.github.io/categories/ad/)
 - [Another LAB](https://github.com/R3dy/capsulecorp-pentest)
+- [Vuln Bank APP for pentest](https://github.com/Commando-X/vuln-bank)
 - https://github.com/enaqx/awesome-pentest
 - [Phishing toolkit](https://github.com/Ignitetch/AdvPhishing)
 - [Nimbo C2 framework](https://github.com/itaymigdal/Nimbo-C2)
@@ -361,6 +367,8 @@
 - [GSM Kernel LPE in Linux](https://github.com/YuriiCrimson/ExploitGSM/)
 
 # BlueTeam
+- [AD ACL Scanner](https://github.com/canix1/ADACLScanner)
+- [Manage, troubleshoot and diagnose utilities](https://learn.microsoft.com/en-us/sysinternals/)
 - [Opensource WAF BunkerWeb](https://github.com/bunkerity/bunkerweb)
 - [Windows firewall](https://github.com/tnodir/fort)
 - [Windows log config](https://github.com/Yamato-Security/EnableWindowsLogSettings)
@@ -369,3 +377,4 @@
 - [Volatility 3: The volatile memory extraction framework](https://github.com/volatilityfoundation/volatility3)
 - [Wazuh - opensource XDR and SIEM protection](https://github.com/wazuh/wazuh)
 - [Digital Forensics and Incident Response](https://habr.com/ru/companies/bastion/articles/651869/)
+- [Source code auditing tool](https://github.com/wireghoul/graudit)
