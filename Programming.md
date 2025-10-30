@@ -19,6 +19,7 @@ pip freeze > requirements.txt
 - [Numba - High Performance Python Compiler](https://github.com/numba/numba)
 - Vulture - Find dead code
 - pipreqs - generate requirements.txt 
+- [DataScince OpenSource libs](https://teletype.in/@spiral_gleb/0_WqmvqZAa1)
 
 ### Visualisation
 - [Taipy](https://github.com/Avaiga/taipy)
@@ -42,6 +43,9 @@ pip freeze > requirements.txt
 - [Algorithms](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 - [Backend good practice](https://github.com/beagreatengineer/how-to-develop-perfect-crud)
 - [Add subtitles](https://proglib.io/sh/9XEcLKFqiR)
+- [Open Source Software Alternatives](https://openalternative.co/)
+- [Cap - lightweight, modern open-source CAPTCHA alternative](https://github.com/tiagozip/cap)
+- [Online Audio&Video transcription](https://turboscribe.ai/)
 # AI
 - [Voice gen](https://proglib.io/p/16-luchshih-neyronok-dlya-sinteza-rechi-2023-11-08)
 - [OpenSource libraries](https://teletype.in/@spiral_gleb/0_WqmvqZAa1)

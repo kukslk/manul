@@ -17,6 +17,12 @@
 - [Telegram OSINT](https://github.com/proseltd/Telepathy-Community)
 - [EmailFinder](https://github.com/Josue87/EmailFinder)
 - [DockerSpy - sensitive information](https://github.com/UndeadSec/DockerSpy)
+- [Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools)
+- [On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT)
+- [Another OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection)
+- [Censys queries collection](https://github.com/thehappydinoa/awesome-censys-queries)
+
 ## Shodan dorks
 - https://github.com/nullfuzz-pentest/shodan-dorks
 - https://github.com/humblelad/Shodan-Dorks
@@ -72,7 +78,7 @@
 - [firepwd](https://raw.githubusercontent.com/lclevy/firepwd/master/firepwd.py) -  decode Firefox passwords
 - [pwncat is a post-exploitation platform](https://github.com/calebstewart/pwncat)
 - [Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
-- [frp reverse proxy NAT bypass](https://github.com/fatedier/frp)
+- [frp - reverse proxy NAT bypass](https://github.com/fatedier/frp)
 - [Docker Enumeration, Escalation of Privileges and Container Escapes](https://github.com/stealthcopter/deepce)
 - [Linpeas analog](https://github.com/TH3xACE/SUDO_KILLER)
 - [reverse shell generator](https://www.revshells.com)
@@ -107,6 +113,12 @@
 - [DonPAPI - automates secrets dump remotely](https://github.com/login-securite/DonPAPI)
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 - [Notification APP](https://github.com/caronc/apprise)
+- [Python Backdoor](https://github.com/xp4xbox/Python-Backdoor)
+- [espoofer- testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures](https://github.com/chenjj/espoofer)
+- [proxify - Swiss Army Knife Proxy](https://github.com/projectdiscovery/proxify)
+- [php-jpeg-injector](https://github.com/dlegs/php-jpeg-injector)
+- [loxs - SQLi, XSS, CRLF, LFI, OpenRedirect scanner](https://github.com/coffinxp/loxs)
+- [nsntrace - network trace of a single process](https://github.com/nsntrace/nsntrace)
 # PERSISTANCE
 
 ## LINUX
@@ -257,6 +269,10 @@
 - [HTB writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 - [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
 - (https://pentestnotes.ru/)
+- [PentestLab checklist](https://github.com/netbiosX/Checklists)
+- [CTF writeups](https://github.com/Crypto-Cat/CTF)
+- [deepdarkCTI- collection of Cyber Threat Intelligence sources from the deep and dark web](https://github.com/fastfire/deepdarkCTI)
+- [Cyber Security mindmaps](https://github.com/Ignitetechnologies/Mindmap)
 
 # PostExploitation
 
@@ -284,6 +300,7 @@
    - xsscrapy
    - Cyclops
    - [XSS tools 2023](https://telegra.ph/xss-tools-08-06)
+   - [Pinkertone - JS scanner](https://github.com/000pp/Pinkerton)
 ### Filters
    - [Filters](https://github.com/Edr4/XSS-Bypass-Filters)
 ## JWT Exploitation
@@ -295,6 +312,7 @@
   - [RCE](https://teletype.in/@haccking/fEjIRmwQsqx)
 ## File Upload
   - [Manul](https://teletype.in/@haccking/YbvqtIuAAXh)
+  - [Upload_Bypass tool](https://github.com/sAjibuu/Upload_Bypass)
 
 ## Mics
 - [Vulns checklist](https://github.com/Az0x7/vulnerability-Checklist)
@@ -305,7 +323,7 @@
 - [phpinfo() exploitation](httpshttps://mayfly277.github.io/categories/ad/://telegra.ph/Ot-stranicy-phpinfo-do-kriticheskih-uyazvimostej-i-RCE-04-17)
 
 # Obfuscation
-
+- [Supernova](https://github.com/nickvourd/Supernova)
 ### Powershell
  - [Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
  - [Chimera](https://github.com/tokyoneon/Chimera)
@@ -381,3 +399,4 @@
 - [Wazuh - opensource XDR and SIEM protection](https://github.com/wazuh/wazuh)
 - [Digital Forensics and Incident Response](https://habr.com/ru/companies/bastion/articles/651869/)
 - [Source code auditing tool](https://github.com/wireghoul/graudit)
+- [Centralized Windows Event Log Reference](https://eventlog-compendium.streamlit.app/)
