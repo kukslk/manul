@@ -273,6 +273,7 @@
 - [CTF writeups](https://github.com/Crypto-Cat/CTF)
 - [deepdarkCTI- collection of Cyber Threat Intelligence sources from the deep and dark web](https://github.com/fastfire/deepdarkCTI)
 - [Cyber Security mindmaps](https://github.com/Ignitetechnologies/Mindmap)
+- https://pentestnotes.ru/
 
 # PostExploitation
 
